@@ -91,7 +91,7 @@ conference:
 
       # - name: Speakers
       #   relative_url: /speakers/
-      - name: Important Dates
+      - name: Dates
         relative_url: /important_dates/
       - name: Organization
         relative_url: /organization/
