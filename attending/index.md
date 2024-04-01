@@ -15,7 +15,7 @@ Students awarded with an Erasmus+ grant do not need to pay a registration fee (o
 
 For Students without an Erasmus grant, the registration fee is 400€.
 
-We have pre-reserved hotel rooms that cost 350€ per room, (so 175€ per person when sharing the 2-person hotel rooms).
+We have pre-reserved hotel rooms that cost 353,25€ per room, (so 177€ per person when sharing the 2-person hotel rooms).
 
 
 
