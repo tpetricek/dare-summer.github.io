@@ -81,7 +81,7 @@ conference:
       #   - name: Call for Posters and Demos
       #     relative_url: /posters/
       - name: About
-        relative_url: /about/
+        relative_url: /
       - name: Attending 
         relative_url: /attending/
 
