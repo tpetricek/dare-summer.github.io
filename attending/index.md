@@ -6,7 +6,7 @@ layout: home
 
 We are aiming to gather a group of maximum 30 motivated and enthusiastic master's or PhD students with a background in computer science and distributed systems.
 
-Participants need to fill in an application form by 15 May 2024. We will select participants based on the screening of a motivation statement, transcripts, and curriculum vitae. We will notify applicants by 24 May 2024. Accepted participants will be invited to join and register for the Summer School.
+Participants need to fill in an application form – the link on the right. We will select participants based on the screening of a motivation statement, transcripts, and curriculum vitae. Accepted participants will be invited to join and register for the Summer School.
 
 Accepted participants eligible for an Erasmus+ grant will need to then register their mobility via a dedicated Erasmus+ mobility site. The rest of the participants will directly receive a link to the payment site. There is no application fee.
 
