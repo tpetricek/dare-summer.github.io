@@ -1,8 +1,7 @@
 ---
-name: Martin Kleppmann
-first_name: Martin           
+first_name: Martin
 last_name: Kleppmann
-title: Dr.
+title: Prof.
 affiliation: Technical University of Munich
 country: Germany
 
