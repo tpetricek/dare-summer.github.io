@@ -13,7 +13,7 @@ Accepted participants eligible for an Erasmus+ grant will need to then register 
 ### How much does it cost?
 Students awarded with an Erasmus+ grant do not need to pay a registration fee (only accommodation if opted in).
 
-For Students without an Erasmus grant, the registration fee is 400€.
+For Students without an Erasmus+ grant, there will be a registration fee to cover the cost of social events, details will be announced soon.
 
 We have pre-reserved hotel rooms that cost 353,25€ per room, (so 177€ per person when sharing the 2-person hotel rooms).
 
