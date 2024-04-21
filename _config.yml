@@ -89,8 +89,8 @@ conference:
       # - name: Program
       #   relative_url: /program/
 
-      # - name: Speakers
-      #   relative_url: /speakers/
+      - name: Speakers
+        relative_url: /speakers/
       - name: Dates
         relative_url: /important_dates/
       - name: Organization
