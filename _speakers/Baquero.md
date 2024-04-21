@@ -3,7 +3,7 @@ name: Carlos Baquero
 first_name: Carlos           
 last_name: Baquero
 title: Prof.
-affiliation: FEUP
+affiliation: Universidade do Porto
 country: Portugal
 
 # other properties can be added if needed
