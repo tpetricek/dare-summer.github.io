@@ -4,6 +4,7 @@ last_name: Kleppmann
 title: Prof.
 affiliation: Technical University of Munich
 country: Germany
+website: https://martin.kleppmann.com/
 
 # other properties can be added if needed
 
