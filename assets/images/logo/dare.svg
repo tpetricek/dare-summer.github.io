@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="208.08572 873.9751 123.05715 121.38714" width="123.05715" height="121.38714">
+<svg version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="208.08572 873.9751 123.05715 121.38714" width="123.05715" height="121.38714">
   <defs>
     <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -3 6 6" markerWidth="6" markerHeight="6" color="#283450">
       <g>
@@ -8,9 +8,8 @@
       </g>
     </marker>
   </defs>
-  <g id="Canvas_1" stroke-dasharray="none" stroke="none" stroke-opacity="1" fill="none" fill-opacity="1">
+  <g id="Canvas_1" fill="none" fill-opacity="1" stroke-opacity="1" stroke="none" stroke-dasharray="none">
     <title>Canvas 1</title>
-    <rect fill="white" x="208.08572" y="873.9751" width="123.05715" height="121.38714"/>
     <g id="Canvas_1_Layer_1">
       <title>Layer 1</title>
       <g id="Graphic_216">
@@ -22,7 +21,7 @@
       <g id="Graphic_214">
         <path d="M 256.75556 979.0822 L 280.53016 979.0822 C 283.34236 979.0822 285.62472 982.729 285.62472 987.2222 C 285.62472 991.7155 283.34236 995.3622 280.53016 995.3622 L 256.75556 995.3622 C 253.94336 995.3622 251.661 991.7155 251.661 987.2222 C 251.661 982.729 253.94336 979.0822 256.75556 979.0822 Z" fill="#393b63"/>
         <text transform="translate(257.05737 981.0822)" fill="#fffdf9">
-          <tspan font-family="Helvetica Neue" font-size="10" fill="#fffdf9" x=".46548737" y="10">2023</tspan>
+          <tspan font-family="Helvetica Neue" font-size="10" fill="#fffdf9" x=".46548737" y="10">2024</tspan>
         </text>
       </g>
       <g id="Line_213">
