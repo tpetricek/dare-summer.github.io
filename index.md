@@ -4,20 +4,21 @@ layout: home
 
 <hr>
 
-The DARE summer school aims to prepare master's students and PhD students for advanced study in the field of distributed systems. In this edition, we focus on techniques for supporting high availability. The school combines theory and practice. Through lectures by active researchers in the field, students will get acquainted with state-of-the-art techniques and the latest research advances. Moreover, in hands-on sessions, students can also develop and experiment with existing frameworks.
+We are pleased to announce the Second Summer School on Distributed and Replicated Environments (DARE 2024).
+DARE is aimed at master's students and PhD students interested in the field of distributed systems and programming languages.
 
-The prospective topics to be covered in DARE include:
+In this edition, we focus on techniques for supporting mixed consistency systems. The school combines theory and practice. Through lectures by active researchers in the field, students will get acquainted with state-of-the-art techniques and the latest research advances. Moreover, in hands-on sessions, students can also develop and experiment with existing frameworks.
+The prospective topics to be covered in this edition include:
 
-- Introduction to highly available distributed systems
+- Introduction to strong consistency and highly available systems
 - Designing and implementing replicated data types
-- Verification techniques for highly available systems
-- Broadcast algorithms
+- Programming models for distributed systems and applications
+- Verification techniques to ensure adequate consistency
 - Testing and debugging distributed systems
-- Programming models for replicated distributed systems
 - Byzantine fault-tolerance
 
 
-DARE is a summer school organized within the Erasmus+ Blended Intensive Programme funded by the European Union. It consists of a one-week course held from Monday 9th September 2024 to Friday 13th September 2024 at the Technical University of Darmstadt, Germany. These in-person sessions are combined with online introductory and closing sessions.
+DARE is a summer school organized within the Erasmus+ Blended Intensive Programme funded by the European Union. It consists of a one-week course. These in-person sessions are combined with online introductory and closing sessions.
 
 After the in-person week, the Summer School will have a closing session in late September 2024. The evaluation consists of a small research project determined during the in-person week which needs to be orally defended during the closing session.
 
