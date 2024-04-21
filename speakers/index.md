@@ -5,7 +5,7 @@ layout: home
 {%- for speaker in site.speakers -%}
     <div class="row-md">
         <div class="media">
-            <img class="mr-3" src="{{ site.baseurl }}/assets/images/{{ speaker.last_name }}.jpeg" width="100px"
+            <img class="mr-3" src="{{ site.baseurl }}/assets/images/speakers/{{ speaker.last_name }}.jpeg" width="100px"
                 alt="Generic placeholder image">
             <div class="media-body">
                 <p p class="media-heading mt-0 mb-0 text-info font-weight-bold"> {{ speaker.title }} {{ speaker.first_name }} {{ speaker.last_name }} </p>
