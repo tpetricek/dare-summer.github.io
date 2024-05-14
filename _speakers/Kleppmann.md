@@ -3,7 +3,7 @@ first_name: Martin
 last_name: Kleppmann
 title: Prof.
 affiliation: University of Cambridge
-country: Germany
+country: United Kingdom
 website: https://martin.kleppmann.com/
 
 # other properties can be added if needed
