@@ -10,11 +10,11 @@ layout: home
   <tbody>
     <tr>
       <td>Application deadline</td>
-      <td>29 May 2024</td>
+      <td><s>29 May 2024</s> extended 7 June 2024</td>
     </tr>
     <tr>
       <td>Application notification</td>
-      <td>7 June 2024</td>
+      <td>14 June 2024</td>
     </tr>
     <tr>
       <td>Registration deadline</td>
