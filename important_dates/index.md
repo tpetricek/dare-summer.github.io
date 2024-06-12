@@ -6,16 +6,16 @@ layout: home
 
 <hr>
 
-<h2> Extended Timeline </h2>
+<h3> Additional Funding Extended Timeline </h3>
 
 <table class="table table-hover table-sm">
   <tbody>
     <tr>
-      <td>Extended Second Application deadline</td>
+      <td>Extended Application deadline</td>
       <td>25 June 2024</td>
     </tr>
     <tr>
-      <td>Application notification (non-extended)</td>
+      <td>Application notification</td>
       <td>29 June 2024</td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ layout: home
   </tbody>
 </table>
 
-<h2> Original Timeline </h2>
+<h3> Original Timeline </h3>
 
 <table class="table table-hover table-sm">
   <tbody>
