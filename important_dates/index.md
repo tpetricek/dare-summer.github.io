@@ -6,6 +6,27 @@ layout: home
 
 <hr>
 
+<h2> Extended Timeline </h2>
+
+<table class="table table-hover table-sm">
+  <tbody>
+    <tr>
+      <td>Extended Second Application deadline</td>
+      <td>25 June 2024</td>
+    </tr>
+    <tr>
+      <td>Application notification (non-extended)</td>
+      <td>29 June 2024</td>
+    </tr>
+    <tr>
+      <td>Registration deadline</td>
+      <td>14 Juli 2024</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2> Original Timeline </h2>
+
 <table class="table table-hover table-sm">
   <tbody>
     <tr>
