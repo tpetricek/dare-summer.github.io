@@ -51,11 +51,11 @@ layout: home
     </tr>
     <tr>
       <td scope="row">Self study</td>
-      <td>14 to 22 Sept 2024</td>
+      <td>14 to 29 Sept 2024</td>
     </tr>
     <tr>
       <td scope="row">Online Closing Sessions</td>
-      <td>Late Sept 2024</td>
+      <td>Early Oktober 2024</td>
     </tr>
   </tbody>
 </table>
